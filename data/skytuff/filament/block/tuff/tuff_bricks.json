@@ -1,0 +1,13 @@
+{
+  "id": "skytuff:tuff_bricks",
+  "blockResource": {
+    "models": {
+      "default": "minecraft:custom/block/tuff/tuff_bricks"
+    }
+  },
+  "properties": {
+    "blockBase": "minecraft:tuff",
+    "itemBase": "minecraft:paper"
+  },
+  "blockModelType": "full_block"
+}

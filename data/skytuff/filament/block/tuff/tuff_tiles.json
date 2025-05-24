@@ -1,0 +1,13 @@
+{
+  "id": "skytuff:tuff_tiles",
+  "blockResource": {
+    "models": {
+      "default": "minecraft:custom/block/tuff/tuff_tiles"
+    }
+  },
+  "properties": {
+    "blockBase": "minecraft:tuff",
+    "itemBase": "minecraft:paper"
+  },
+  "blockModelType": "full_block"
+}

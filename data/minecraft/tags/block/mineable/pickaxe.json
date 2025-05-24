@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "skytuff:chiseled_tuff_bricks",
+    "skytuff:chiseled_tuff",
+    "skytuff:polished_tuff",
+    "skytuff:tuff_bricks",
+    "skytuff:tuff_tiles"
+  ]
+}

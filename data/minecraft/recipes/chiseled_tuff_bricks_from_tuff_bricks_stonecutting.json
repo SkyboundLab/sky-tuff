@@ -1,0 +1,8 @@
+{
+ "count": 1,
+ "ingredient": {
+  "item": "skytuff:tuff_bricks"
+ },
+ "result": "skytuff:chiseled_tuff_bricks",
+ "type": "minecraft:stonecutting"
+}

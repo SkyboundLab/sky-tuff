@@ -1,0 +1,21 @@
+{
+ "pools": [
+  {
+   "bonus_rolls": 0.0,
+   "conditions": [
+    {
+     "condition": "minecraft:survives_explosion"
+    }
+   ],
+   "entries": [
+    {
+     "name": "skytuff:chiseled_tuff_bricks",
+     "type": "minecraft:item"
+    }
+   ],
+   "rolls": 1.0
+  }
+ ],
+ "random_sequence": "skytuff:blocks/chiseled_tuff_bricks",
+ "type": "minecraft:block"
+}

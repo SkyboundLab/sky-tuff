@@ -1,0 +1,8 @@
+{
+ "count": 1,
+ "ingredient": {
+  "item": "minecraft:tuff"
+ },
+ "result": "skytuff:chiseled_tuff",
+ "type": "minecraft:stonecutting"
+}

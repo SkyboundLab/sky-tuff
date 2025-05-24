@@ -1,0 +1,8 @@
+{
+ "count": 1,
+ "ingredient": {
+  "item": "minecraft:tuff"
+ },
+ "result": "skytuff:tuff_tiles",
+ "type": "minecraft:stonecutting"
+}

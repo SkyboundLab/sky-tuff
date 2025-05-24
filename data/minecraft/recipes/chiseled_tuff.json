@@ -1,0 +1,18 @@
+{
+ "category": "building",
+ "key": {
+  "#": {
+   "item": "skytuff:polished_tuff_slab"
+  }
+ },
+ "pattern": [
+  "#",
+  "#"
+ ],
+ "result": {
+  "count": 1,
+  "item": "skytuff:chiseled_tuff"
+ },
+ "show_notification": true,
+ "type": "minecraft:crafting_shaped"
+}

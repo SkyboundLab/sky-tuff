@@ -1,0 +1,18 @@
+{
+ "category": "building",
+ "key": {
+  "#": {
+   "item": "skytuff:polished_tuff"
+  }
+ },
+ "pattern": [
+  "##",
+  "##"
+ ],
+ "result": {
+  "count": 4,
+  "item": "skytuff:tuff_bricks"
+ },
+ "show_notification": true,
+ "type": "minecraft:crafting_shaped"
+}

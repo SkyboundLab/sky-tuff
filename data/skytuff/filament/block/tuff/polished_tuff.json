@@ -1,0 +1,13 @@
+{
+  "id": "skytuff:polished_tuff",
+  "blockResource": {
+    "models": {
+      "default": "minecraft:custom/block/tuff/polished_tuff"
+    }
+  },
+  "properties": {
+    "blockBase": "minecraft:tuff",
+    "itemBase": "minecraft:paper"
+  },
+  "blockModelType": "full_block"
+}

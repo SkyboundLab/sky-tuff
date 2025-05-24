@@ -1,0 +1,21 @@
+{
+ "pools": [
+  {
+   "bonus_rolls": 0.0,
+   "conditions": [
+    {
+     "condition": "minecraft:survives_explosion"
+    }
+   ],
+   "entries": [
+    {
+     "name": "skytuff:tuff_tiles",
+     "type": "minecraft:item"
+    }
+   ],
+   "rolls": 1.0
+  }
+ ],
+ "random_sequence": "skytuff:blocks/tuff_tiles",
+ "type": "minecraft:block"
+}
